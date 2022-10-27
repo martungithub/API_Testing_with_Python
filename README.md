@@ -13,13 +13,21 @@ So the program must check if the mandatory keys exists or not. If they exist we'
 
 Application is using a multiple packages. Please make sure that you have installed all the required packages.
 
-1. ```jsx
+1. 
+
+```jsx
 import os
 ```
-2. ```jsx
+
+2. 
+
+```jsx
 import json
 ```
-3.  ```jsx
+
+3. Execute the following commands in the project root folder to install functools:
+
+```jsx
 import requests
 ```
 
