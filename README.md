@@ -13,9 +13,15 @@ So the program must check if the mandatory keys exists or not. If they exist we'
 
 Application is using a multiple packages. Please make sure that you have installed all the required packages.
 
--import os
--import json
--import requests
+1. ```jsx
+import os
+```
+2. ```jsx
+import json
+```
+3.  ```jsx
+import requests
+```
 
 
 
