@@ -17,8 +17,7 @@ The application will send HTTP requests to any API using URL.
     "title": ["str", [1,500]],
     "body": ["str", [1,500]]
   }
-
-```
+  ```
 - Run the program
 - Input the URL
 - The program will automatically check if the requested data matches or not.
