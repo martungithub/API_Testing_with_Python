@@ -1,4 +1,10 @@
-The application will send HTTP requests to any API using URL. So the program must check if the mandatory keys exists in the requested data or not. 
+The application will send HTTP requests to any API using URL.
+
+### The program must check if 
+
+- the mandatory keys exists in the requested data or not.
+- the given datatype matched or not 
+- the values are outside the expected range or not.
 
 ### How to use the application
 
