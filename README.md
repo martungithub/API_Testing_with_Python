@@ -9,14 +9,6 @@ The application will send HTTP requests to any API using URL.
 ### How to use the application
 
 - Open settings.json file and put the mandatory keys, data types and specific ranges that you wanna check .
-
-  {
-    "userId": [1, [1,50]],      #[datatype, [range]]
-    "id": [1, [1,50]],
-    "title": ["str", [1,500]],
-    "body": ["str", [1,500]]
-  }
-
 - Run the program
 - Input the URL
 - The program will automatically check if the requested data matches or not.
@@ -29,6 +21,14 @@ Application is using a multiple packages. Please make sure that you have install
 
 ```jsx
 import os
+
+  {
+    "userId": [1, [1,50]],      #[datatype, [range]]
+    "id": [1, [1,50]],
+    "title": ["str", [1,500]],
+    "body": ["str", [1,500]]
+  }
+
 ```
 
 2. 
